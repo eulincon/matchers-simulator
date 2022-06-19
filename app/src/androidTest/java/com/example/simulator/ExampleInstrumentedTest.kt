@@ -1,4 +1,4 @@
-package com.example.simlator
+package com.example.simulator
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

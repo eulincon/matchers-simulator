@@ -1,4 +1,4 @@
-package com.example.simlator
+package com.example.simulator
 
 import org.junit.Test
 
