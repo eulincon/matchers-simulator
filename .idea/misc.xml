@@ -6,7 +6,9 @@
         <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1075" />
         <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1075" />
         <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.107" />
-        <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/drawable/ic_simulate.xml" value="0.1195" />
+        <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/layout/activity_main.xml" value="0.24157303370786518" />
+        <entry key="..\:/Users/Lincon/AndroidStudioProjects/Simlator/app/src/main/res/layout/match_item.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -15,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>
